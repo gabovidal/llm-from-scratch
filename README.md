@@ -13,13 +13,13 @@ If you want to reproduce my studies, I have collected the following (non-exhaust
 - G. James, D. Witten, T. Hastie, R. Tibshirani, and J. Taylor, ``An Introduction to Statistical Learning'' (2023). https://www.statlearning.com/
 
 - Stanford's ``Natural Language Processing with Deep Learning'' course (full lectures):
-https://youtu.be/rmVRLeJRkl4?si=AWpGsVXzAXwpSa1F
+https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4
 
 - 3b1b's ``Neural Network'' series (higher-level explanations):
-https://youtu.be/aircAruvnKk?si=Q2RR4JWHG6KJoo0N
+https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 
 - StatQuest's ``Neural Network / Deep Learning'' series (lower-level explanations):
-https://youtu.be/CqOfi41LfDw?si=cq8Ki9p_b-HqqEAN
+https://www.youtube.com/watch?v=CqOfi41LfDw&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1&index=2
 
 - Andrej Karpathy's ``From zero to hero'' tutorials (hands-on lectures):
-https://youtu.be/VMj-3S1tku0?si=crt46akN7XATCwhF
+https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
