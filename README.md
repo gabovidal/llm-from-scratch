@@ -8,18 +8,18 @@ Following Kaparthy's lectures, SLM uses only the characters of the text (i.e. a 
 
 If you want to reproduce my studies, I have collected the following (non-exhaustive list but free online) material:
 
-- I.~Goodfellow, Y.~Bengio, and A.~Courville, ``Deep Learning'' (2016). http://www.deeplearningbook.org
+- I. Goodfellow, Y. Bengio, and A. Courville, ``Deep Learning'' (2016). http://www.deeplearningbook.org
 
-- G.~James, D.~Witten, T.~Hastie, R.~Tibshirani, and J.~Taylor, ``An Introduction to Statistical Learning'' (2023). https://www.statlearning.com/
+- G. James, D. Witten, T. Hastie, R. Tibshirani, and J. Taylor, ``An Introduction to Statistical Learning'' (2023). https://www.statlearning.com/
 
-- Stanford's ``Natural Language Processing with Deep Learning'' course:
-https://youtu.be/rmVRLeJRkl4?si=AWpGsVXzAXwpSa1F (full lectures)
+- Stanford's ``Natural Language Processing with Deep Learning'' course (full lectures):
+https://youtu.be/rmVRLeJRkl4?si=AWpGsVXzAXwpSa1F
 
-- 3b1b's ``Neural Network'' web-series:
-https://youtu.be/aircAruvnKk?si=Q2RR4JWHG6KJoo0N (higher-level explanations)
+- 3b1b's ``Neural Network'' series (higher-level explanations):
+https://youtu.be/aircAruvnKk?si=Q2RR4JWHG6KJoo0N
 
-- StatQuest's ``Neural Network / Deep Learning'' web-series:
-https://youtu.be/CqOfi41LfDw?si=cq8Ki9p_b-HqqEAN (lower-level explanations)
+- StatQuest's ``Neural Network / Deep Learning'' series (lower-level explanations):
+https://youtu.be/CqOfi41LfDw?si=cq8Ki9p_b-HqqEAN
 
-- Andrej Kaparthy's ``From zero to hero'' series:
-https://youtu.be/VMj-3S1tku0?si=crt46akN7XATCwhF (hands-on lectures)
+- Andrej Kaparthy's ``From zero to hero'' series (hands-on lectures):
+https://youtu.be/VMj-3S1tku0?si=crt46akN7XATCwhF
