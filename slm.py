@@ -1,19 +1,22 @@
+import numpy as np
 from dataclasses import dataclass
 import torch
 import torch.nn as nn
 from torch.nn import functional as F
 import textwrap
 
+assert torch.cuda.is_available()
+
 
 @dataclass
 class Config:
     """A pythonic way to hold data (i.e. as an object)."""
     # temperature: float = 1.0  # temperature of softmax TODO:
-    batch_size: int = 64  # number of batches processed per step
+    batch_size: int = 32  # number of batches processed per step
     context_size: int = 256  # max context length of vocabs fed to predict the next
     vocab_size: int = 65
     n_layer: int = 6  # number of layers of repeated (ATT-MPL) blocks
-    dim_head: int = 64  # dimension of each head
+    dim_head: int = 128  # dimension of each head
     n_heads = 6  # number of heads
     dim_embd: int = n_heads * dim_head  # dimension of Embedding space
 
@@ -23,7 +26,7 @@ class Config:
 
 
 class SLM(nn.Module):
-    """"Re-implementation of Andrej Karpathy's lectures from his YouTube channel.
+    """"Re-implementation of Andrej Karpathy's lectures from his YouTube channel and his `nn-zero-to-hero` companion repository.
 
     I baptised it Small Language Model (SLM) since it is has only the chars of a text as vocabulary."""
 
